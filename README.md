@@ -9,3 +9,7 @@
 - Install Vite/React
 
   `npm create vite@latest (project name)`
+
+- Install dependencies + react icons
+
+  `npm install react-icons --save`
