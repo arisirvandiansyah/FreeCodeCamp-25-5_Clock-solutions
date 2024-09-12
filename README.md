@@ -2,7 +2,7 @@
 
 ## FreeCodeCamp - Front End Development Libraries Projects
 
-#### CheatSheet
+### CheatSheet
 
 [App.js](https://github.com/arisirvandiansyah/FreeCodeCamp-25-5_Clock-solutions/blob/main/src/App.jsx)
 
