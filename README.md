@@ -36,6 +36,12 @@
 
   `npm install react-icons --save`
 
+- Once it done, copy/paste App.js and index.css on cheatsheet above to
+
+  `App.js > src/App.jsx`
+
+  `index.css > src/index.css`
+
 - Start server
 
   `npm run dev`
