@@ -1,4 +1,4 @@
-# Workout Clock
+# 25 + 5 Clock
 
 ### FreeCodeCamp - Front End Development Libraries Projects
 
