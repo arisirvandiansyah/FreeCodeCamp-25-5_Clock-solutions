@@ -7,4 +7,5 @@
 ### Setup
 
 - Install Vite/React
-  `code` npm create vite@latest (project name)
+
+  `npm create vite@latest (project name)`
