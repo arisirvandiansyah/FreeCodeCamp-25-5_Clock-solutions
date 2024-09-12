@@ -14,7 +14,7 @@
 
   `git clone https://github.com/arisirvandiansyah/FreeCodeCamp-25-5_Clock-solutions.git`
 
-- Opne repo directory in terminal
+- Open repo directory in terminal
 
   `cd FreeCodeCamp-25-5_Clock-solutions`
 
